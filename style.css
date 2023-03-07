@@ -1,0 +1,309 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+nav ul{
+    list-style: none;
+    display: flex;
+    
+    
+}
+/* body{
+    width: 100%;
+    max-height: 85%;
+} */
+.section{
+display: flex;
+}
+.one{
+    /* width: 200%;
+    padding-left: 20px; */
+    width: "100";
+    padding-left: 500px;
+
+}
+.box1{
+    display: flex;
+}
+.box{
+    display: flex;
+    float: right;
+    padding-bottom: 100px;
+    margin-left: 20px;
+    
+}
+.all-footer{
+    display: flex;
+    padding-left: 80px;
+}
+.footer6{
+    text-align: center;
+}
+.footer1{
+    padding: 20px;
+}
+.footer2{
+    padding: 20px;
+}
+.footer3{
+    padding: 20px;
+}
+.footer4{
+    padding: 20px;
+}
+.footer5{
+    padding: 20px;
+}
+.second-box{
+    text-align: center;
+}
+.first-button{
+    color: rgb(6, 50, 6);
+    width: 500px;
+    height: 50px;
+    border-radius: 10px;
+}
+.second-button{
+  margin-left: 0.5%;
+  width: 100px;
+  height: 55px;
+  border-radius: 10px;
+}
+.second-box{
+    font-size: 2em;
+     background-color: #ECAFBA;
+    height: 300px; 
+    border-radius: 70px;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+nav li{
+    display: inline-block;
+    padding-right: 50px;
+}
+.all-footer{
+    background-color: #F77374;
+    background-size: 100px;
+}
+.en{
+    float: right;
+}
+.login{
+    float: right;
+}
+.button{
+    float: right;
+}
+.home{
+    color: red;
+}
+h1{
+    font-size: 100px;
+    margin-left: 70px;
+    padding-top: 50px;   
+}
+p{
+    font-size: large;
+    margin-left:70px ;
+}
+#down{
+ background-color: rgb(235, 67, 95);
+ font-size: large;
+ margin-left: 70px;
+ border-radius: 10px;
+ width: 200px;
+ height: 60px;
+}
+/* img{
+    width: "2";
+    height: 70px;
+} */
+/* #shoes{
+    
+    padding-bottom: 10%;
+  height: 1000px;
+  width: 2000px; */
+#fix{
+    color: rgb(235, 67, 95);
+}
+ .card{
+    display: flex;
+    padding-left: 40px; */
+    
+    
+}
+  .shoes1{
+    box-shadow: 0 2px 12px 4px #3434343d;
+     padding: 30px; 
+     margin: 2%; 
+    display: inline-flex;
+} 
+.shoes2{
+    box-shadow: 0 2px 12px 4px #3434343d;
+    padding: 30px;
+    /* box-shadow: yellow; */
+    margin: 2%;
+    display: inline-flex;
+}
+.shoes3{
+    box-shadow: 0 2px 12px 4px #3434343d;
+    
+    padding: 30px;
+    margin: 2%;
+    display: inline-flex;
+    
+    
+}
+.pumas{
+    /* background-color: rgba(30, 0, 255, 0.403); */
+    border-radius: 15px;
+   
+}
+.nikes{
+    /* background-color: rgb(255, 0, 68); */
+    border-radius: 15px;
+}
+.adidass{
+    /* background-color: blue; */
+    border-radius: 15px;
+}
+/* .puma{
+    padding-right: 80px;
+    background-image: linear-gradient(red, yellow); */
+   
+}
+.nike{
+    padding-right: 80px;
+}
+.adidas{
+    padding-right: 80px;
+}
+.image-adidas{
+    width: 20%;
+}
+.image-air{
+    width: 70%;
+}
+.image-puma{
+    width: 10%;
+}
+.image-fila{
+    width: 70%;
+}
+.another-shoes{
+    display: flex;
+    padding-left: 40px;
+    
+}
+.adidas2{
+    padding: 20px;
+    box-shadow: 0 2px 12px 4px #3434343d;
+    margin: 1%;
+}
+.nike2{
+    padding: 20px;
+    box-shadow: 0 2px 12px 4px #3434343d;
+    margin: 1%;
+}
+.puma2{
+    padding: 20px;
+    box-shadow: 0 2px 12px 4px #3434343d;
+    margin: 1%;
+}
+.fila{
+    padding: 20px;
+    box-shadow: 0 2px 12px 4px #3434343d;
+    margin: 1%;
+}
+.gender{
+    display: flex;
+    padding-left: 60px;
+}
+h2{
+    padding: 20px;
+}
+.last-shoes{
+    display: flex;
+    padding-left: 40px;
+}
+.black-shoes{
+    padding: 20px;
+    box-shadow: 0 2px 12px 4px #3434343d;
+    margin: 1%;
+}
+.black-shoes1{
+    padding: 20px;
+    box-shadow: 0 2px 12px 4px #3434343d;
+    margin: 1%; 
+    
+}
+.black-shoes2{
+    padding: 20px;
+    box-shadow: 0 2px 12px 4px #3434343d;
+    margin: 1%;  
+}
+.black-shoes3{
+    padding: 20px;
+    box-shadow: 0 2px 12px 4px #3434343d;
+    margin: 1%; 
+}
+   .brand1{
+    box-shadow: 0 2px 12px 4px #3434343d;
+    padding: 30px;
+    margin: 2%;
+    display: inline-flex;   
+   }
+ .brand2{
+    box-shadow: 0 2px 12px 4px #3434343d;
+    padding: 30px;
+    margin: 2%;
+    display: inline-flex;
+ }
+ .lastt{
+    width: 20em;
+ }
+ .firstt{
+    width: 20em;
+ }
+.brand-image1{
+    background-image: url(/images/last1.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.brand-image2{
+    background-image: url(/images/last2.jpeg);
+    background-size: cover;
+}
+/* .first-button{
+    background-color: rgb(247, 85, 85);
+} */
+
+.paragaraph1{
+    text-align: center;
+}
+.mens{
+    color: rgb(245, 101, 101);
+}
+.see-more{
+    color: rgb(245, 101, 101);
+    border-color: rgb(245, 101, 101);
+    text-align: center;
+    width: 150px;
+    height: 50px;
+    margin-left: 50%;
+    border-radius: 10px;
+
+}
+.new{
+    text-align: center;
+}
+ /* .person{
+    float: right;
+    
+}  */
+    
+
+
+
+
